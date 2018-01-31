@@ -14,7 +14,7 @@
 - #### 知网系统的概貌：
     <font size=3>知网系统包括了下列数据文件和程序：</p>**1. 中英双语知识词典**：包含内容有框架网描写的词汇和义原释义及语义角色。根据事件、实体属性、第二特征等分类别放置；</br>![知网文档分类.png](http://upload-images.jianshu.io/upload_images/1860473-4335a921b805dd99.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)</p>**2. 知网管理工具**：包含了知网的概念计算工具和语义相似度计算工具及其API；</br>![知网工具说明.png](http://upload-images.jianshu.io/upload_images/1860473-e62e328883beed62.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)</p>**3. 知网说明文件**：</br>&emsp;&emsp;动态角色与属性，</br>&emsp;&emsp;词类表，</br>&emsp;&emsp;同义、反义以及对义组的形成，</br>&emsp;&emsp;事件关系和角色转换，</br>&emsp;&emsp;标识符号及其说明</br>![知网API.png](http://upload-images.jianshu.io/upload_images/1860473-8f417c46ce998a46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)</p>
 
-    基于知网的义原分析，我们可以计算词语之间的相似度以及抽取词语框架。最新版本的知网规模如下：
+    基于知网的义原分析，我们可以计算词语之间的相似度以及抽取词语框架。最新版本的知网规模如下：</br>
 ![知网规模.png](http://upload-images.jianshu.io/upload_images/1860473-d06e4cc6e823718b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
 
 </font>
